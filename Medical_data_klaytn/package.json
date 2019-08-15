@@ -8,9 +8,15 @@
     "dev": "webpack-dev-server"
   },
   "dependencies": {
+    "body-parser": "^1.19.0",
     "caver-js": "0.0.2-z",
     "connect-privkey-to-provider": "^0.0.3",
+    "express": "^4.17.1",
     "keccak256": "^1.0.0",
+<<<<<<< HEAD
+=======
+    "mysql": "^2.17.1",
+>>>>>>> b6805fabf0bad99e83238604deb8c22f0da89b2d
     "solc": "^0.5.10",
     "spin.js": "^4.0.0",
     "truffle": "^5.0.29",
